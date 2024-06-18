@@ -1,0 +1,13 @@
+.enca1{
+    border-bottom: 2px solid blue;
+}
+.enca2{
+    border: 2px solid grey;
+}
+.enca3{
+    border-top: 4px dotted red;
+    border-bottom: 4px dotted red;
+}
+.enca4{
+    border: 4px dotted green;
+}
