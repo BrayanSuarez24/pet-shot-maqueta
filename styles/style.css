@@ -1,0 +1,72 @@
+/*Agrega el selector aquí */
+
+/*Agrega el selector aquí */
+div{
+    background-color: blue;
+}
+
+/* Ignora esto, por ahora */
+* {
+font-size: 1.5rem;
+margin-bottom: 10px;
+}
+
+
+/*Agrega los selectores aquí */
+
+/*Agrega los selectores aquí */
+.card{
+    background-color: aqua;
+}
+.card1{
+    color: blue;
+}
+.card2{
+    color: rgb(225, 255, 0);
+}
+
+  /* Ignora esto, por ahora */
+  * {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+
+/*Agrega los selectores aquí */
+
+/*Agrega los selectores aquí */
+#eliminar{
+    background-color: red;
+}
+
+  /* Ignora esto, por ahora */
+  * {
+    font-size: 1.2rem;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+
+/*Agrega los selectores aquí */
+
+/*Agrega los selectores aquí */
+a[href="https://platzi.com"]{
+    background-color: aquamarine;
+    }
+
+  /* Ignora esto, por ahora */
+  * {
+    font-size: 1.2rem;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+a {
+    display: block;
+}
+
+/*Agrega los selectores aquí */
+*{
+    background-color: aqua;
+}
+  /*Agrega los selectores aquí */
