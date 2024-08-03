@@ -105,7 +105,7 @@ a {
   /*Agrega los selectores aquí */
 
 /*Agrega los selectores aquí */
-div ~ p{
+div + p{
   color: brown;
 }
 /*Agrega los selectores aquí */
